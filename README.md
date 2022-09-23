@@ -1,8 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Denise4U/1a09799df0a353515cae0c35df43613b/raw/22dccca8d25818c31e3ff6e045af3a829a8dea5d/cardperfil-update.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm :Dê</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denise4U&show_icons=true&theme=radical)
-
 ### CLIENT SIDE
 
 <div style="display: inline_block"><br>
@@ -22,4 +20,10 @@
 <img align="center" alt="De-aws" height="30" width="40" src="https://raw.githubusercontent.com/gist/Denise4U/140f7ca3d6d8f263900fcf2b437d3ad8/raw/110470a40091fd91fd7f7ffd0618a7db6c68d526/AWS.svg">
 <img align="center" alt="De-firebase" height="30" width="40" src="https://raw.githubusercontent.com/gist/Denise4U/702177f3fe3f7007e6b1cf420e967d10/raw/11dbe6e49fea7d52d2e7c1e4e97756f68e047817/firebase.svg">
 </div>
+
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denise4U&show_icons=true&theme=radical)
+
+
 
