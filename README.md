@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Denise4U/1a09799df0a353515cae0c35df43613b/raw/22dccca8d25818c31e3ff6e045af3a829a8dea5d/cardperfil-update.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/Denise4U/1a09799df0a353515cae0c35df43613b/raw/22dccca8d25818c31e3ff6e045af3a829a8dea5d/cardperfil-update.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm :Dê</h1>
 
 ### CLIENT SIDE
