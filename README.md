@@ -23,4 +23,3 @@
 <img align="center" alt="De-firebase" height="30" width="40" src="https://raw.githubusercontent.com/gist/Denise4U/702177f3fe3f7007e6b1cf420e967d10/raw/11dbe6e49fea7d52d2e7c1e4e97756f68e047817/firebase.svg">
 </div>
 
-
